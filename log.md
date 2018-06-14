@@ -8,3 +8,9 @@
 
 **Link to work:** 
 https://projecteuler.net/, https://www.hackerrank.com
+
+ ### Day 2: June 14, 2018
+
+**Today's Progress**: Fraction class complete, no compile errors
+
+**Thoughts:** Followed C++ data structures and algorithms book to create Fraction class. Was getting errors from overload functions. Was due to location of the function, which I had before the class definitions. Move to below the class definition in Fraction.cpp and fixed the errors.
