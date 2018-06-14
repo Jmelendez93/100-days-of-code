@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
- ### Day 0: June 13, 2018
+ ### Day 1: June 13, 2018
 
 **Today's Progress**: Sum of Fib sequence below 4million, sum of multiples of 3 or 5 below threshold. Both in C++. Checked out Hackerrank and did basic intro Hello, World problems.
 
