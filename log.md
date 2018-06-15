@@ -14,3 +14,12 @@ https://projecteuler.net/, https://www.hackerrank.com
 **Today's Progress**: Fraction class complete, no compile errors
 
 **Thoughts:** Followed C++ data structures and algorithms book to create Fraction class. Was getting errors from overload functions. Was due to location of the function, which I had before the class definitions. Move to below the class definition in Fraction.cpp and fixed the errors.
+
+ ### Day 1: June 13, 2018
+
+**Today's Progress**: Testdome assignment: Find pairs of indices from vector that sum up to given value; Codebytes assignment:have the function LongestWord(sen) take the sen parameter being passed and return the largest word in the string.
+
+**Thoughts:** Need to review string manipulation and vectors. Got stuck mostly on syntax. Algorithms weren't tough, but how to manipulate the data structure to accomplish task proved tricky.
+
+**Link to work:** 
+https://coderbyte.com/, https://www.testdome.com/
