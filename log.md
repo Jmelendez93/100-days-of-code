@@ -23,3 +23,12 @@ https://projecteuler.net/, https://www.hackerrank.com
 
 **Link to work:** 
 https://coderbyte.com/, https://www.testdome.com/
+
+ ### Day 4: June 16, 2018
+
+**Today's Progress**: Hackerrank simple array sum. Shorter day than normal due to plans with friends.
+
+**Thoughts:** I am not used to iterators and am having trouble with them and vectors still. Tried using iterators to sum, could not get program to run properly. Ended up using indexes in for loop instead of iterators. Will need to work on iterators down the line.
+
+**Link to work:** 
+https://www.hackerrank.com/
