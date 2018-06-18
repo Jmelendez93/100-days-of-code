@@ -32,3 +32,12 @@ https://coderbyte.com/, https://www.testdome.com/
 
 **Link to work:** 
 https://www.hackerrank.com/
+
+ ### Day 5: June 17, 2018
+
+**Today's Progress**: Hackerrank big sum, diagonal array sum, # sign staircase
+
+**Thoughts:** Much more comfortable with iterators and vectors today. Can do most basic operations with them now.
+
+**Link to work:** 
+https://www.hackerrank.com/
