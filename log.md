@@ -41,3 +41,13 @@ https://www.hackerrank.com/
 
 **Link to work:** 
 https://www.hackerrank.com/
+
+
+### Day 6: June 18, 2018
+
+**Today's Progress**: Hackerrank triple comparison, min-max, and birthday candles height problem.
+
+**Thoughts:** Ready for something a little more challenging. Need to push myself!
+
+**Link to work:** 
+https://www.hackerrank.com/
