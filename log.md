@@ -42,7 +42,6 @@ https://www.hackerrank.com/
 **Link to work:** 
 https://www.hackerrank.com/
 
-
 ### Day 6: June 18, 2018
 
 **Today's Progress**: Hackerrank triple comparison, min-max, and birthday candles height problem.
@@ -51,3 +50,12 @@ https://www.hackerrank.com/
 
 **Link to work:** 
 https://www.hackerrank.com/
+
+### Day 7: June 19, 2018
+
+**Today's Progress**: Basic Java classes and structure. Compiled one via Notepad and then installed Eclipse and NetBeans IDEs.
+
+**Thoughts:** Java is pretty similar to C++, just trying to get down the differences and start learning libraries soon. Best way to learn it is by comparing and contrasting from what I already know with C languages.
+
+**Link to work:** 
+http://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/
