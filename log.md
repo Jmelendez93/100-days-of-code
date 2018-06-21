@@ -59,3 +59,12 @@ https://www.hackerrank.com/
 
 **Link to work:** 
 http://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/
+
+### Day 8: June 20, 2018
+
+**Today's Progress**: Basic Java classes and structure. Employee, Loop sum, and non zeros projects. Incomplete non zeros project.
+
+**Thoughts:** Java is pretty similar to C++, just trying to get down the differences and start learning libraries soon. Best way to learn it is by comparing and contrasting from what I already know with C languages. Non zeros project not giving correct answer due to repeating a value in loop...
+
+**Link to work:** 
+http://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/
