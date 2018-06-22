@@ -68,3 +68,12 @@ http://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/
 
 **Link to work:** 
 http://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/
+
+### Day 9: June 21, 2018
+
+**Today's Progress**: Sections 1-5 of Udemy Python Bootcamp
+
+**Thoughts:** Mostly basic review. A few things I hadn't learned properly first time around. Gone over data types, operators, statements, etc. Methods, functions, OOP all coming up soon.
+
+**Link to work:** 
+https://www.udemy.com
