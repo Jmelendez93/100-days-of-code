@@ -77,3 +77,11 @@ http://pages.cs.wisc.edu/~hasti/cs368/JavaTutorial/
 
 **Link to work:** 
 https://www.udemy.com
+### Day 10: June 22, 2018
+
+**Today's Progress**: Section 6 18/24. Included programming exercises. Completed all exersises correctly.
+
+**Thoughts:** Lots of practice today! The coding exercises, though challenging, were completed with the correct output. My prior programming knowledge helped with the algorithms and methods used. Not bad overall. Looking forward to tomorrow's progress.
+
+**Link to work:** 
+https://www.udemy.com
