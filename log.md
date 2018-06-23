@@ -85,3 +85,11 @@ https://www.udemy.com
 
 **Link to work:** 
 https://www.udemy.com
+### Day 11: June 23, 2018
+
+**Today's Progress**: Section 6 24/24 done (Practice exercises included). Milestone project Udemy Python Bootcamp completed and debugged with test cases.
+
+**Thoughts:** Practice problems took a bit, but not too tough. Challenge came with tic tac toe project. Lots of logical challenges I came across, especially with regards to the order of statements. In particular, was getting looping issues and issues ending the game. In the end, finally resolved the issues.
+
+**Link to work:** 
+https://www.udemy.com
