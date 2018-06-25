@@ -93,3 +93,11 @@ https://www.udemy.com
 
 **Link to work:** 
 https://www.udemy.com
+### Day 12: June 24, 2018
+
+**Today's Progress**: Section 8-10 + Milestone 2 project.
+
+**Thoughts:** Mostly familiar material from prior programming experience apart from import content and a few other things. Milestone project was a game of blackjack. Took a while due to all the components, but got the logic down and completed the project! Not too many problems.
+
+**Link to work:** 
+https://www.udemy.com
