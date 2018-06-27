@@ -101,3 +101,21 @@ https://www.udemy.com
 
 **Link to work:** 
 https://www.udemy.com
+### Day 13: June 25, 2018
+
+**Today's Progress**: Worked with regular expressions and finished up advanced section. Course complete.
+
+**Thoughts:** Regular expressions are tricky! Going to take a while to get the hang of them. May start AWS soon
+
+**Link to work:** 
+https://www.udemy.com
+
+
+### Day 14: June 26, 2018
+
+**Today's Progress**: Looked around AWS
+
+**Thoughts:** AWS makes very little sense, so trying to make some sense of it. Created the EC2 instance and developed first "app", but not sure what to do with it.
+
+**Link to work:** 
+https://us-west-2.console.aws.amazon.com
