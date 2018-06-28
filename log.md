@@ -119,3 +119,12 @@ https://www.udemy.com
 
 **Link to work:** 
 https://us-west-2.console.aws.amazon.com
+
+### Day 15: June 27, 2018
+
+**Today's Progress**: Did a few of the Python problems. Finished with a medium: the triangle angle calculation
+
+**Thoughts:** Ran into precision issues, but programs were fairly simple.
+
+**Link to work:** 
+https://www.hackerrank.com/
