@@ -128,3 +128,11 @@ https://us-west-2.console.aws.amazon.com
 
 **Link to work:** 
 https://www.hackerrank.com/
+### Day 16: June 28, 2018
+
+**Today's Progress**: Tried medium level. Struggled! Was problem with dense rank
+
+**Thoughts:** Could not complete. Work in progress.
+
+**Link to work:** 
+https://www.hackerrank.com/
