@@ -136,3 +136,12 @@ https://www.hackerrank.com/
 
 **Link to work:** 
 https://www.hackerrank.com/
+
+### Day 17: June 29, 2018
+
+**Today's Progress**: Python interview review
+
+**Thoughts:** Worked on common interview questions. Not as productive as most other days.
+
+**Link to work:** 
+https://www.interviewcake.com/python-interview-questions
