@@ -145,3 +145,11 @@ https://www.hackerrank.com/
 
 **Link to work:** 
 https://www.interviewcake.com/python-interview-questions
+
+### Day 18: June 30, 2018
+
+**Today's Progress**: A cloud guru AWS Developer Associate course
+
+**Thoughts:** Learning AWS! Seems overwhelming, but this course should help me learn it. Will take some time for sure.
+
+**Link to work:** https://acloud.guru
