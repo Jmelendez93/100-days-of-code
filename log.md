@@ -153,3 +153,11 @@ https://www.interviewcake.com/python-interview-questions
 **Thoughts:** Learning AWS! Seems overwhelming, but this course should help me learn it. Will take some time for sure.
 
 **Link to work:** https://acloud.guru
+
+### Day 19: July 1, 2018
+
+**Today's Progress**: A cloud guru AWS Developer Associate course + Python review
+
+**Thoughts:** Went through IAM security panel and EC2 instances. Also reviewed some important Python concepts.
+
+**Link to work:** https://acloud.guru
