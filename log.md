@@ -161,3 +161,11 @@ https://www.interviewcake.com/python-interview-questions
 **Thoughts:** Went through IAM security panel and EC2 instances. Also reviewed some important Python concepts.
 
 **Link to work:** https://acloud.guru
+
+### Day 20: July 2, 2018
+
+**Today's Progress**: Review Email Client from ECE 433
+
+**Thoughts:** Going to use this project for interview Thursday. Need to review and remember what all the libraries and statements mean.
+
+**Link to work:** 
