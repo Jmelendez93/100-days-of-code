@@ -168,4 +168,8 @@ https://www.interviewcake.com/python-interview-questions
 
 **Thoughts:** Going to use this project for interview Thursday. Need to review and remember what all the libraries and statements mean.
 
-**Link to work:** 
+### Day 21: July 3, 2018
+
+**Today's Progress**: Review Email Client from ECE 433
+
+**Thoughts:** Looking over Javamail API details
