@@ -173,3 +173,9 @@ https://www.interviewcake.com/python-interview-questions
 **Today's Progress**: Review Email Client from ECE 433
 
 **Thoughts:** Looking over Javamail API details
+
+### Day 22: July 4, 2018
+
+**Today's Progress**: Review Email Client from ECE 433
+
+**Thoughts:** Finished understanding swing and javamail classes. Wrote notes on changes I could make (deprecated methods, better structure, addable functionality, etc.). Feel like I have a pretty good grasp of the project.
