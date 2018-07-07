@@ -179,3 +179,20 @@ https://www.interviewcake.com/python-interview-questions
 **Today's Progress**: Review Email Client from ECE 433
 
 **Thoughts:** Finished understanding swing and javamail classes. Wrote notes on changes I could make (deprecated methods, better structure, addable functionality, etc.). Feel like I have a pretty good grasp of the project.
+### Day 23: July 5, 2018
+
+**Today's Progress**: Review Email Client from ECE 433; helped Alan
+
+**Thoughts:** Reviewed email client for my interview then interviewed!Also helped Alan with his assignment (with setting up the template for the functions)
+
+### Day 24: July 6, 2018
+
+**Today's Progress**: AWS work
+
+**Thoughts:** Looked through AWS, basic security group stuff
+
+### Day 25: July 7, 2018
+
+**Today's Progress**: More AWS learning
+
+**Thoughts:** Learning about EBS volumes
